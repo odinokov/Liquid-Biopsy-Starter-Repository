@@ -23,14 +23,14 @@ Learning resources for LBx.
   - Best for learning: ddPCR vs targeted NGS vs emerging approaches, plus method-selection logic by clinical use case.
   - Link: https://academic.oup.com/oncolo/article/30/9/oyaf204/8206301
 
-- **Strategies for improving detection of circulating tumor DNA using next generation sequencing** — *Clinical Chimica Acta* (2023).
+- **Strategies for improving detection of circulating tumor DNA using next generation sequencing** — *Cancer Treatment Reviews* (2023).
   - Why it matters: Focuses on analytical sensitivity, low-allele-fraction detection, and NGS error suppression.
   - Best for learning: UMIs, background noise control, multi-locus strategies, and lower-limit-of-detection thinking.
   - Link: https://www.sciencedirect.com/science/article/pii/S0305737223000889
 
 - **Validation of a liquid biopsy assay with molecular and clinical profiling of circulating tumor DNA** — *npj Precision Oncology* (2021).
   - Why it matters: Practical example of assay validation with integrated molecular and clinical profiling.
-  - Best for learning: Analytical validation logic, performance characterization, and tumor-fraction estimation using low-pass WGS.
+  - Best for learning: Analytical validation logic, performance characterization, and tumor-fraction estimation using off-target reads from targeted panel sequencing.
   - Link: https://www.nature.com/articles/s41698-021-00202-2
 
 - **Monitoring and Assessment of Circulating Tumor DNA in Cancers Using Ultrarapid Sensitivity as an Innovative Practice** — *Health Science Reports* (2025).
