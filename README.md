@@ -61,6 +61,11 @@ Learning resources for LBx.
   * Why it matters: Empirical study of how collection tubes, processing time, and host physiology affect fragmentomic readouts — with the key finding that tube/time leave fragment size and tumor fraction largely intact but reshape genome-wide patterns and fragment-end sequences.
   * Best for: Fragmentation bias, fragment-end effects, collection-site batch effects, and why fragmentomics is especially pre-analytically sensitive.
   * Link: https://academic.oup.com/clinchem/article/68/6/803/6549200
+    
+* **Reporting of molecular test results from cell-free DNA analyses: expert consensus recommendations from the 2023 European Liquid Biopsy Society ctDNA Workshop** — *EBioMedicine* (2025).
+  * Why it matters: Expert-consensus guidance on how ctDNA results should be reported — the standardization layer that pre-analytics ultimately feeds into.
+  * Best for: ctDNA test-report content, handling tumour-fraction variability and unexpected findings, ISO 15189 alignment, and lab-to-oncologist communication.
+  * Link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11979934/
 
 ---
 
@@ -95,6 +100,11 @@ Learning resources for LBx.
   * Best for: Evidence generation, trial design, endpoint selection, panel composition, and translational implementation planning.
   * Link: https://doi.org/10.1016/j.scib.2025.06.030
 
+* **Clinical implementation of multi-cancer early detection tests: can we find a path forward?** — *Nature Reviews Clinical Oncology* (2026).
+  * Why it matters: Policy- and implementation-focused complement to "Promises and pitfalls," written around the 2026 Medicare MCED coverage act and pending FDA decisions.
+  * Best for: Reimbursement and coverage logic, regulatory status, trial-evidence gaps, and what real-world rollout actually requires.
+  * Link: https://www.nature.com/articles/s41571-026-01158-7
+
 ---
 
 ## 6) Fragmentomics
@@ -109,6 +119,11 @@ Learning resources for LBx.
   * Best for: Fragment-length spectra, end motifs, nucleosome footprints, and AI-enabled signal extraction.
   * Link: https://www.sciencedirect.com/science/article/pii/S1535610825003988
 
+* **Cell-free DNA size deconvolution resolves nucleosomal origins and reveals tumor-associated fragmentomic alterations** — *Nature Communications* (2026).
+  * Why it matters: Primary methods paper that decomposes cfDNA size profiles into ~10-bp periodic components and separates true ctDNA shortening from phagocytosis-driven shortening.
+  * Best for: Fragment-length deconvolution, nucleosomal vs. sub-nucleosomal origins, and disentangling tumor signal from clearance/processing artefacts (validated in germline-TP53, radiotherapy, and liver-transplant cohorts).
+  * Link: https://www.nature.com/articles/s41467-026-72925-4
+  
 ---
 
 ## 7) Emerging assay technologies and next-generation signal classes
